@@ -1,3 +1,5 @@
 # hello-world
-a line will be added.
+This is sample repository.
+a new line will be added.
+Added a new line.
 added line.
